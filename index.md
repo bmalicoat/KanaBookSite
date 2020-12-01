@@ -5,3 +5,7 @@ I built Kanji Book to aid in my own learning of kanji. I wanted something that w
 As you play, the language of the workbook changes to reflect your knowledge. Practice all aspects of kanji: readings, drawing, recall, definition, and recollection. Use your Kanji Book as simple flashcards or test yourself with 25 random questions. Once you have enough kanji to form compound kanji vocabulary words, you'll end each session with a grid of kanji which you can use to form vocabulary words.
 
 I hope you find some value in Kanji Book. Let me know how many you learn or reach out with any questions - bmalicoat@gmail.com
+
+## Privacy Policy
+
+I collect no information. If you want to tell me how you like Kanji Book and if it has helped you, I'd love to hear from you.
