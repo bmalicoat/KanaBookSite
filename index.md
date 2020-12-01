@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Kanji Book
 
-You can use the [editor on GitHub](https://github.com/bmalicoat/KanjiBook/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I built Kanji Book to aid in my own learning of kanji. I wanted something that would let me learn the 2136 jōyō kanji at my own pace. I was inspired by Japanese style journals which extensively use highlighters and stickers to brighten up the otherwise dull contents. In Kanji Book, you'll build your own workbook which tracks your progress visually. You can learn as many kanji as you want each day. I find that 2 or 3 is a good cadence. I tend to play 3 or 4 times a day, whenever I can find a spare 5 minutes. I try to use my phone as a tool, not a distraction.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As you play, the language of the workbook changes to reflect your knowledge. Practice all aspects of kanji: readings, drawing, recall, definition, and recollection. Use your Kanji Book as simple flashcards or test yourself with 25 random questions. Once you have enough kanji to form compound kanji vocabulary words, you'll end each session with a grid of kanji which you can use to form vocabulary words.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bmalicoat/KanjiBook/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I hope you find some value in Kanji Book. Let me know how many you learn or reach out with any questions - bmalicoat@gmail.com
